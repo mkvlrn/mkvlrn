@@ -5,8 +5,6 @@
 
 ⚐ Based in Rio de Janeiro, Brazil
 
-ϟ Currently looking for a backend/fullstack job
-
 ϟ Recently discovered vaporwave songs
 
  ## Skills
